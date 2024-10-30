@@ -1,0 +1,28 @@
+#clickguard-click-counts {
+    text-align: center;
+}
+
+#clickguard-click-counts tr {
+    margin-top: 0;
+}
+
+#clickguard-click-counts th {
+    min-width: 100px;
+    color: whitesmoke;
+    background-image: url("panel_bg.png") !important;
+}
+
+#clickguard-click-counts td {
+    font-size: 16px;
+    font-weight: bold;
+    color: #23282d;
+}
+
+#clickguard-click-counts {
+    border-spacing: 5px 0;
+}
+
+#clickguard-footer {
+    background-color: #37474F;
+    width: 100%;
+}

@@ -1,0 +1,54 @@
+/*#cg-wrap {*/
+    /*border: 2px solid #37474F;*/
+/*}*/
+
+#cg-header {
+    background-color: #37474F;
+    padding-left: 10px;
+}
+
+#cg-header img {
+    height: 35px;
+}
+
+#cg-message {
+    background: #fff;
+    margin: 0;
+    padding: 5px;
+}
+
+#cg-message img {
+    width: 16px;
+    float: left;
+    margin-right: 5px;
+}
+
+#cg-body {
+    margin-top: -10px;
+}
+
+table.cg-section {
+    margin-top: 10px;
+}
+
+.cg-check {
+    float: right;
+}
+
+.cg-check img {
+    height: 16px;
+}
+
+.cg-visit-settings {
+    display: none;
+}
+
+.cg-helper {
+    height: 0px;
+    transition: height 2s;
+    overflow: hidden;
+}
+
+.cg-helper.show {
+    height:auto;
+}
